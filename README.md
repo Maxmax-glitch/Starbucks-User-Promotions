@@ -1,20 +1,18 @@
-# Starbucks-User-Promotions
+# Starbucks-User-Promotions Project Overview 
 Captstone Project based on Starbucks Transaction&amp;Promotion dataset focusing on user groups and promotional strategy 
 
-# Project Overview
+## Problem Statement
 
-# Problem Statement
+## Metrics
 
-# Metrics
+## Data Exploration & Visualization
 
-# Data Exploration & Visualization
+## Data Pre-Processing
 
-# Data Pre-Processing
+## Modeling
 
-# Modeling
+## Evaluation and Validation
 
-# Evaluation and Validation
+## Reflection
 
-# Reflection
-
-# Outlook 
+## Outlook 
