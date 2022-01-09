@@ -20,3 +20,5 @@ There are two python files available
 data 
 - data available in JSON files, transcript data is zipped and must be unzipped before use
  
+Blog post
+- A non technical discussion of the project and results is available on Medium: https://medium.com/@hartmann.max/customer-segmentation-offer-strategy-starbucks-data-set-c361b03c732
