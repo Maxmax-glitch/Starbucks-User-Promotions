@@ -17,5 +17,6 @@ There are two python files available
 1. Starbucks_Capstone_notebook-functionalized contains all code and refactored with separate functions
 2. Starbucks_Capstone_notebook-raw contains the initial code before functionalizing. Only for information or if you want to walk through step by step
 
-
+data 
+- data available in JSON files, transcript data is zipped and must be unzipped before use
  
